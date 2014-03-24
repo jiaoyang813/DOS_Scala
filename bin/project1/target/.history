@@ -1,0 +1,28 @@
+scalac *.scala
+fsc Client.scala
+console
+run
+compile
+run
+compile
+scala MyClient
+scala project1.MyClient
+run
+run 50000
+run
+scala MyClient.scala
+scala project1.MyServer.scala
+exit
+scalac MyClient.scala
+run
+YES
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+fweoijf
+exit

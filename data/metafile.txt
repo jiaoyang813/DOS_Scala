@@ -1,0 +1,8 @@
+metafile.txt NULL 2014.02.38-16:11:34
+major.txt NULL 2014.02.40-21:59:59
+sample_large.txt NULL 2014.02.38-16:11:34
+test.txt NULL 2014.02.38-16:11:34
+dbfile.txt NULL 2014.02.40-01:53:58
+ReadLock.txt NULL 2014.02.38-16:16:16
+.DS_Store NULL 2014.02.38-16:11:34
+WriteLock.txt NULL 2014.02.38-16:16:16
